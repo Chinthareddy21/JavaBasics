@@ -1,0 +1,5 @@
+[INFO ] 2023-12-05 21:28:13.249 [main] SearchTest - Chrome driver set up completed
+[INFO ] 2023-12-05 21:28:13.252 [main] SearchTest - Chrome browser started
+[INFO ] 2023-12-05 21:28:20.225 [main] search - SUCCESSFULLY SEARCHED
+[INFO ] 2023-12-05 21:28:20.622 [main] SearchTest - Closing chrome browser
+[INFO ] 2023-12-05 21:28:20.721 [main] SearchTest - closing all running browsers
